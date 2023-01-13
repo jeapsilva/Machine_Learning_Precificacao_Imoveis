@@ -1,4 +1,4 @@
-# Machine_Learning_Precificacao_Imoveis
+# Regressão Linear com StatsModels e LinearRegression
 Uso de Regressão Linear e Stats Models para modelo de predição
 
 
